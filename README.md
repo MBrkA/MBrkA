@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Studying at the Computer Engineering Department of Middle East Technical University (METU).<br>🔭 I’m currently working on web development & database management.<br>🌱 I’m currently learning React & Golang
+🎓 Studying at the Computer Science Department of Middle East Technical University (METU).<br>🔭 I’m currently working on web development & database management.<br>🌱 I’m currently learning React & Golang
 
 
 ## 🌐 Socials:
